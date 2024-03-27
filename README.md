@@ -1,0 +1,1 @@
+# azure_application_insights
